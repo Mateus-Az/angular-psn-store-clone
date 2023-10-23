@@ -8,5 +8,7 @@
 
 body{
   background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(9,9,121,1) 100%);
+  background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-particulas-abstratas-tecnologia-realista_52683-33064.jpg?w=1380&t=st=1698022910~exp=1698023510~hmac=a37198560d3f970ecab2cadf4d86aaee2825427124a97e1600669cdf0580fc39");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
